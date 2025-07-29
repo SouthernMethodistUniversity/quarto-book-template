@@ -1,0 +1,42 @@
+---
+code-links:
+  - text: example_code.R
+    icon: file-code
+    href: code/example_code.R
+---
+
+# Chapter 4
+
+## Objectives
+
+-   Add a list of objectives at the top of each chapter. Information like estimated completion time and additional resources can be added here as well, if applicable.
+
+## Code
+
+### Code Chunks
+
+To add code chunks, see the structure below:
+
+```{r}
+print("Hello World")
+```
+
+### Inline Code
+
+You can add inline code like this and it will link to that functions documentation: `filter()`
+
+## Tab Groups
+
+You can create tab groups with the structure below:
+
+::: {.panel-tabset}
+
+## Tab 1
+
+1. This is the contents of the first tab!
+
+## Tab 2
+
+1. This is the contents of the second tab!
+
+:::

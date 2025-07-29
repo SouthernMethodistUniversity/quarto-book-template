@@ -1,0 +1,40 @@
+project:
+  type: book
+  output-dir: _book
+  resources:
+    - code/**
+
+book:
+  title: "Insert Title Here" # TODO update title
+  author: "Insert Author Here" # TODO update author
+  reader-mode: false
+  #cover-image: images/r_logo.png # TODO add a cover image here
+  sidebar:
+    logo: images/logo_stack.svg # TODO change logo if not SMU OIT
+    pinned: true
+  page-footer:
+    right: <a href="http://creativecommons.org/licenses/by-sa/4.0/"><img src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png"></a>
+  #site-url: https://southernmethodistuniversity.github.io/intro-to-r/ # TODO change to GH Pages URL
+  #repo-url: https://github.com/SouthernMethodistUniversity/intro-to-r # TODO change repo URL
+  repo-branch: main
+  repo-actions: [edit, issue]
+  chapters: # TODO update entire structure to represent your structure
+    - index.qmd
+    - part: section1.qmd
+      chapters: 
+        - chapter1.qmd
+        - chapter2.qmd
+    - part: section2.qmd
+      chapters: 
+        - chapter3.qmd
+        - chapter4.qmd
+    - next_steps.qmd
+
+format:
+  html:
+    theme: cosmo
+    code-link: true
+    author-meta: "Insert Author Here" # TODO update author metadata here
+    callout-appearance: simple
+
+editor: source

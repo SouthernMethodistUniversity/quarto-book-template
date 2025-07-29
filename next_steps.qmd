@@ -1,0 +1,13 @@
+# Next Steps {.unnumbered}
+
+A next steps page is a good to have for viewers to continue their learning. This is added as an unchaptered and unsectioned page.
+
+## Workshops {.unnumbered}
+
+Add information for future workshops or events here.
+
+## Online Resources {.unnumbered}
+
+Add links to other resources here. Noticed the structure below for adding a link:
+
+- [Link](https://github.com/SouthernMethodistUniversity/quarto-book-template) *by Author*

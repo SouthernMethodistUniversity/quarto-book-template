@@ -1,0 +1,15 @@
+# Welcome {.unnumbered}
+
+Add the same welcome text here that are in the README.md
+
+The content for this workshop is developed and taught by the OIT Research Technology Services team at SMU in collaboration with SMU Libraries.
+
+## Objectives
+
+- Add the same bullet objectives here that are in the README.md
+
+## License
+
+[![](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+
+The content in this workshop is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License.](http://creativecommons.org/licenses/by-sa/4.0/)

@@ -1,0 +1,5 @@
+# Section 2 {.unnumbered}
+
+## Section Subheader {.unnumbered}
+
+Each section page should have a minimal overview of that section, and each header needs the .unnumbered brackets to specify that it should not be included in the chapter numbering.
