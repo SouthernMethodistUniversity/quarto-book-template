@@ -4,6 +4,7 @@
 - [ ] Select `Include all branches` to ensure `gh-pages` is included
 - [ ] Select `SouthernMethodistUniversity` as the owner, and give the repo an appropriate name
 - [ ] Add a short description of the purpose for the repo
+- [ ] Make the repo `Public` (IMPORTANT: This is what allows it to deploy to GitHub Pages)
 - [ ] Wait for a few minutes for all the GitHub Actions to execute
 - [ ] Click the gear icon next to `About` and select `Use your GitHub Pages website`
 - [ ] Clone the repo and edit [quarto.yml](_quarto.yml) everywhere `TODO` is mentioned in a comment
