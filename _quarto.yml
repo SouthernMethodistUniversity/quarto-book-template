@@ -8,7 +8,7 @@ book:
   title: "Insert Title Here" # TODO update title
   author: "Insert Author Here" # TODO update author
   reader-mode: false
-  #cover-image: images/r_logo.png # TODO add a cover image here
+  cover-image: images/logo_stack.svg # TODO add a cover image here
   sidebar:
     logo: images/logo_stack.svg # TODO change logo if not SMU OIT
     pinned: true
