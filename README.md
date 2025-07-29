@@ -2,7 +2,7 @@
 
 Add instructions here for template.
 
-# DELETE EVERYTHING ABOVE AND INCLUDING THIS LINE
+DELETE EVERYTHING ABOVE AND INCLUDING THIS LINE
 
 # Insert Title Here <img src="images/logo_stack.svg" align="right" height="139"/>
 
