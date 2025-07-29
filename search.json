@@ -1,0 +1,248 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Insert Title Here",
+    "section": "",
+    "text": "Welcome\nAdd the same welcome text here that are in the README.md\nThe content for this workshop is developed and taught by the OIT Research Technology Services team at SMU in collaboration with SMU Libraries.",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "index.html#objectives",
+    "href": "index.html#objectives",
+    "title": "Insert Title Here",
+    "section": "Objectives",
+    "text": "Objectives\n\nAdd the same bullet objectives here that are in the README.md",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "index.html#license",
+    "href": "index.html#license",
+    "title": "Insert Title Here",
+    "section": "License",
+    "text": "License\n\nThe content in this workshop is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "section1.html",
+    "href": "section1.html",
+    "title": "Section 1",
+    "section": "",
+    "text": "Section Subheader\nEach section page should have a minimal overview of that section, and each header needs the .unnumbered brackets to specify that it should not be included in the chapter numbering.",
+    "crumbs": [
+      "Section 1"
+    ]
+  },
+  {
+    "objectID": "chapter1.html",
+    "href": "chapter1.html",
+    "title": "\n1  Chapter 1\n",
+    "section": "",
+    "text": "1.1 Objectives",
+    "crumbs": [
+      "Section 1",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Chapter 1</span>"
+    ]
+  },
+  {
+    "objectID": "chapter1.html#objectives",
+    "href": "chapter1.html#objectives",
+    "title": "\n1  Chapter 1\n",
+    "section": "",
+    "text": "Add a list of objectives at the top of each chapter. Information like estimated completion time and additional resources can be added here as well, if applicable.",
+    "crumbs": [
+      "Section 1",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Chapter 1</span>"
+    ]
+  },
+  {
+    "objectID": "chapter1.html#code",
+    "href": "chapter1.html#code",
+    "title": "\n1  Chapter 1\n",
+    "section": "\n1.2 Code",
+    "text": "1.2 Code\n\n1.2.1 Code Chunks\nTo add code chunks, see the structure below:\n\nprint(\"Hello World\")\n\n[1] \"Hello World\"\n\n\n\n1.2.2 Inline Code\nYou can add inline code like this and it will link to that functions documentation: filter()",
+    "crumbs": [
+      "Section 1",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Chapter 1</span>"
+    ]
+  },
+  {
+    "objectID": "chapter1.html#tab-groups",
+    "href": "chapter1.html#tab-groups",
+    "title": "\n1  Chapter 1\n",
+    "section": "\n1.3 Tab Groups",
+    "text": "1.3 Tab Groups\nYou can create tab groups with the structure below:\n\n\nTab 1\nTab 2\n\n\n\n\nThis is the contents of the first tab!\n\n\n\n\nThis is the contents of the second tab!",
+    "crumbs": [
+      "Section 1",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Chapter 1</span>"
+    ]
+  },
+  {
+    "objectID": "chapter2.html",
+    "href": "chapter2.html",
+    "title": "\n2  Chapter 2\n",
+    "section": "",
+    "text": "2.1 Objectives",
+    "crumbs": [
+      "Section 1",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Chapter 2</span>"
+    ]
+  },
+  {
+    "objectID": "chapter2.html#objectives",
+    "href": "chapter2.html#objectives",
+    "title": "\n2  Chapter 2\n",
+    "section": "",
+    "text": "Add a list of objectives at the top of each chapter. Information like estimated completion time and additional resources can be added here as well, if applicable.",
+    "crumbs": [
+      "Section 1",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Chapter 2</span>"
+    ]
+  },
+  {
+    "objectID": "chapter2.html#code",
+    "href": "chapter2.html#code",
+    "title": "\n2  Chapter 2\n",
+    "section": "\n2.2 Code",
+    "text": "2.2 Code\n\n2.2.1 Code Chunks\nTo add code chunks, see the structure below:\n\nprint(\"Hello World\")\n\n[1] \"Hello World\"\n\n\n\n2.2.2 Inline Code\nYou can add inline code like this and it will link to that functions documentation: filter()",
+    "crumbs": [
+      "Section 1",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Chapter 2</span>"
+    ]
+  },
+  {
+    "objectID": "chapter2.html#tab-groups",
+    "href": "chapter2.html#tab-groups",
+    "title": "\n2  Chapter 2\n",
+    "section": "\n2.3 Tab Groups",
+    "text": "2.3 Tab Groups\nYou can create tab groups with the structure below:\n\n\nTab 1\nTab 2\n\n\n\n\nThis is the contents of the first tab!\n\n\n\n\nThis is the contents of the second tab!",
+    "crumbs": [
+      "Section 1",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Chapter 2</span>"
+    ]
+  },
+  {
+    "objectID": "section2.html",
+    "href": "section2.html",
+    "title": "Section 2",
+    "section": "",
+    "text": "Section Subheader\nEach section page should have a minimal overview of that section, and each header needs the .unnumbered brackets to specify that it should not be included in the chapter numbering.",
+    "crumbs": [
+      "Section 2"
+    ]
+  },
+  {
+    "objectID": "chapter3.html",
+    "href": "chapter3.html",
+    "title": "\n3  Chapter 3\n",
+    "section": "",
+    "text": "3.1 Objectives",
+    "crumbs": [
+      "Section 2",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Chapter 3</span>"
+    ]
+  },
+  {
+    "objectID": "chapter3.html#objectives",
+    "href": "chapter3.html#objectives",
+    "title": "\n3  Chapter 3\n",
+    "section": "",
+    "text": "Add a list of objectives at the top of each chapter. Information like estimated completion time and additional resources can be added here as well, if applicable.",
+    "crumbs": [
+      "Section 2",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Chapter 3</span>"
+    ]
+  },
+  {
+    "objectID": "chapter3.html#code",
+    "href": "chapter3.html#code",
+    "title": "\n3  Chapter 3\n",
+    "section": "\n3.2 Code",
+    "text": "3.2 Code\n\n3.2.1 Code Chunks\nTo add code chunks, see the structure below:\n\nprint(\"Hello World\")\n\n[1] \"Hello World\"\n\n\n\n3.2.2 Inline Code\nYou can add inline code like this and it will link to that functions documentation: filter()",
+    "crumbs": [
+      "Section 2",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Chapter 3</span>"
+    ]
+  },
+  {
+    "objectID": "chapter3.html#tab-groups",
+    "href": "chapter3.html#tab-groups",
+    "title": "\n3  Chapter 3\n",
+    "section": "\n3.3 Tab Groups",
+    "text": "3.3 Tab Groups\nYou can create tab groups with the structure below:\n\n\nTab 1\nTab 2\n\n\n\n\nThis is the contents of the first tab!\n\n\n\n\nThis is the contents of the second tab!",
+    "crumbs": [
+      "Section 2",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Chapter 3</span>"
+    ]
+  },
+  {
+    "objectID": "chapter4.html",
+    "href": "chapter4.html",
+    "title": "\n4  Chapter 4\n",
+    "section": "",
+    "text": "4.1 Objectives",
+    "crumbs": [
+      "Section 2",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Chapter 4</span>"
+    ]
+  },
+  {
+    "objectID": "chapter4.html#objectives",
+    "href": "chapter4.html#objectives",
+    "title": "\n4  Chapter 4\n",
+    "section": "",
+    "text": "Add a list of objectives at the top of each chapter. Information like estimated completion time and additional resources can be added here as well, if applicable.",
+    "crumbs": [
+      "Section 2",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Chapter 4</span>"
+    ]
+  },
+  {
+    "objectID": "chapter4.html#code",
+    "href": "chapter4.html#code",
+    "title": "\n4  Chapter 4\n",
+    "section": "\n4.2 Code",
+    "text": "4.2 Code\n\n4.2.1 Code Chunks\nTo add code chunks, see the structure below:\n\nprint(\"Hello World\")\n\n[1] \"Hello World\"\n\n\n\n4.2.2 Inline Code\nYou can add inline code like this and it will link to that functions documentation: filter()",
+    "crumbs": [
+      "Section 2",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Chapter 4</span>"
+    ]
+  },
+  {
+    "objectID": "chapter4.html#tab-groups",
+    "href": "chapter4.html#tab-groups",
+    "title": "\n4  Chapter 4\n",
+    "section": "\n4.3 Tab Groups",
+    "text": "4.3 Tab Groups\nYou can create tab groups with the structure below:\n\n\nTab 1\nTab 2\n\n\n\n\nThis is the contents of the first tab!\n\n\n\n\nThis is the contents of the second tab!",
+    "crumbs": [
+      "Section 2",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Chapter 4</span>"
+    ]
+  },
+  {
+    "objectID": "next_steps.html",
+    "href": "next_steps.html",
+    "title": "Next Steps",
+    "section": "",
+    "text": "Workshops\nA next steps page is a good to have for viewers to continue their learning. This is added as an unchaptered and unsectioned page.\nAdd information for future workshops or events here.",
+    "crumbs": [
+      "Next Steps"
+    ]
+  },
+  {
+    "objectID": "next_steps.html#online-resources",
+    "href": "next_steps.html#online-resources",
+    "title": "Next Steps",
+    "section": "Online Resources",
+    "text": "Online Resources\nAdd links to other resources here. Noticed the structure below for adding a link:\n\nLink by Author",
+    "crumbs": [
+      "Next Steps"
+    ]
+  }
+]
