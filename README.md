@@ -5,7 +5,7 @@
 - [ ] Select `SouthernMethodistUniversity` as the owner, and give the repo an appropriate name
 - [ ] Add a short description of the purpose for the repo
 - [ ] Wait for a few minutes for all the GitHub Actions to execute
-- [ ] Clone the repo and edit ![quarto.yml]('_quarto.yml') everywhere `TODO` is mentioned in a comment
+- [ ] Clone the repo and edit [quarto.yml]('_quarto.yml') everywhere `TODO` is mentioned in a comment
 - [ ] Update the content below to include an appropriate logo and description for the content
 - [ ] Update `.qmd` files to reflect the content you want deployed
 - [ ] Delete this section of the `README.md`
