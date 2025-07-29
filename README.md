@@ -11,7 +11,7 @@
 - [ ] Delete this section of the `README.md`
 - [ ] Commit, Push, and wait a few minutes for the GitHub Actions to trigger
 
--> DELETE EVERYTHING ABOVE THIS LINE (including this line) <-
+&rarr; DELETE EVERYTHING ABOVE THIS LINE (including this line) &larr;
 
 # Insert Title Here <img src="images/logo_stack.svg" align="right" height="139"/>
 
